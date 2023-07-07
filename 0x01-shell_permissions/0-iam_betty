@@ -1,2 +1,1 @@
-!#/bin/bash/
-chown betty
+-e#!/bin/bash\n su betty
